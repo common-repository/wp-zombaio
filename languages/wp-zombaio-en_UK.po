@@ -1,0 +1,774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Zomabio\n"
+"POT-Creation-Date: 2013-08-12 20:15-0000\n"
+"PO-Revision-Date: 2013-08-12 20:15-0000\n"
+"Last-Translator: Barry Carlyon <barry@barrycarlyon.co.uk>\n"
+"Language-Team: Barry Carlyon <barry@barrycarlyon.co.uk>\n"
+"Language: en_UK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop\n"
+"X-Poedit-Basepath: ../.\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp_zombaio.php:37
+msgid "Satisfied Customer (just moving on)"
+msgstr ""
+
+#: wp_zombaio.php:38
+msgid "Income Issues"
+msgstr ""
+
+#: wp_zombaio.php:39
+msgid "Spouse called in about charge"
+msgstr ""
+
+#: wp_zombaio.php:40
+msgid "Minor user card"
+msgstr ""
+
+#: wp_zombaio.php:41
+msgid "Only interested in trial subscription"
+msgstr ""
+
+#: wp_zombaio.php:42
+msgid "Did not read terms and conditions"
+msgstr ""
+
+#: wp_zombaio.php:43
+msgid "Not satisfied with content"
+msgstr ""
+
+#: wp_zombaio.php:44
+msgid "Not receiving replies from Webmaster"
+msgstr ""
+
+#: wp_zombaio.php:45
+msgid "Password problems"
+msgstr ""
+
+#: wp_zombaio.php:46
+msgid "Unable to load content fast enough"
+msgstr ""
+
+#: wp_zombaio.php:47
+msgid "Other"
+msgstr ""
+
+#: wp_zombaio.php:51
+msgid "Declined, no more retries"
+msgstr ""
+
+#: wp_zombaio.php:52
+msgid "Approved"
+msgstr ""
+
+#: wp_zombaio.php:53
+msgid "Declined, retrying in 5 days"
+msgstr ""
+
+#: wp_zombaio.php:57
+msgid "CB - Services/Merchandise Not Received"
+msgstr ""
+
+#: wp_zombaio.php:58
+msgid "Cancelled Recurring Transaction"
+msgstr ""
+
+#: wp_zombaio.php:59
+msgid "Not as Described or Defective"
+msgstr ""
+
+#: wp_zombaio.php:60
+msgid "Fraudulent Multiple Drafts"
+msgstr ""
+
+#: wp_zombaio.php:61
+msgid "Expired Card"
+msgstr ""
+
+#: wp_zombaio.php:62
+msgid "Late Presentment"
+msgstr ""
+
+#: wp_zombaio.php:63
+msgid "Cardholder Does Not Recognize"
+msgstr ""
+
+#: wp_zombaio.php:64
+msgid "Fraudulent Transaction - Card Absent Environment"
+msgstr ""
+
+#: wp_zombaio.php:65
+msgid "Card Not Processed"
+msgstr ""
+
+#: wp_zombaio.php:66
+msgid "Altered Amount/Paid by Other Means"
+msgstr ""
+
+#: wp_zombaio.php:67
+msgid "Risk Identification Service"
+msgstr ""
+
+#: wp_zombaio.php:68
+msgid "Zombaio - Not as Described or Defective"
+msgstr ""
+
+#: wp_zombaio.php:69
+msgid "Zombaio - No access to website (Script problem or Site down)"
+msgstr ""
+
+#: wp_zombaio.php:74
+msgid "Merchange is liable for the chargeback"
+msgstr ""
+
+#: wp_zombaio.php:75
+msgid "Card Issuer is liable for the chargeback (3D Secure)"
+msgstr ""
+
+#: wp_zombaio.php:76
+msgid "Zombaio is liable for the chargeback (Fraud Insurance)"
+msgstr ""
+
+#: wp_zombaio.php:81
+msgid "Declined by Issuing Bank"
+msgstr ""
+
+#: wp_zombaio.php:82
+msgid "Card Expired"
+msgstr ""
+
+#: wp_zombaio.php:83
+msgid "Card Lost of Stolen"
+msgstr ""
+
+#: wp_zombaio.php:84
+msgid "Card on Negative List"
+msgstr ""
+
+#: wp_zombaio.php:86
+msgid "Blocked by Anti Fraud System Level1 - Velocity"
+msgstr ""
+
+#: wp_zombaio.php:87
+msgid "Blocked by Anti Fraud System Level2 - Geo Technology"
+msgstr ""
+
+#: wp_zombaio.php:88
+msgid "Blocked by Anti Fraud System Level3 - Blacklist"
+msgstr ""
+
+#: wp_zombaio.php:89
+msgid "Blocked by Anti Fraud System Level4 - Bayesian probability"
+msgstr ""
+
+#: wp_zombaio.php:90
+msgid "Blocked by Anti Fraud System Level5 - Other"
+msgstr ""
+
+#: wp_zombaio.php:92
+msgid "3D Secure - Failed to Authenticate"
+msgstr ""
+
+#: wp_zombaio.php:94
+msgid "Merchange Account Closed or Suspended"
+msgstr ""
+
+#: wp_zombaio.php:95
+msgid "Routing Error"
+msgstr ""
+
+#: wp_zombaio.php:96
+msgid "General Error"
+msgstr ""
+
+#: wp_zombaio.php:143 wp_zombaio.php:145 wp_zombaio.php:146 wp_zombaio.php:157
+msgid "Zombaio Log"
+msgstr ""
+
+#: wp_zombaio.php:147
+msgid "Add New"
+msgstr ""
+
+#: wp_zombaio.php:148
+msgid "Add New Zombaio Log"
+msgstr ""
+
+#: wp_zombaio.php:149
+msgid "Edit Zombaio Log"
+msgstr ""
+
+#: wp_zombaio.php:150
+msgid "New Zombaio Log"
+msgstr ""
+
+#: wp_zombaio.php:151
+msgid "All Zombaio Logs"
+msgstr ""
+
+#: wp_zombaio.php:152
+msgid "View Zombaio Log"
+msgstr ""
+
+#: wp_zombaio.php:153
+msgid "Search Zombaio Logs"
+msgstr ""
+
+#: wp_zombaio.php:154
+msgid "No Zombaio Logs found"
+msgstr ""
+
+#: wp_zombaio.php:155
+msgid "No Zombaio Logs found in Trash"
+msgstr ""
+
+#: wp_zombaio.php:174 wp_zombaio.php:599
+msgid "User Add"
+msgstr ""
+
+#: wp_zombaio.php:179
+#, php-format
+msgid "User Add <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: wp_zombaio.php:182 wp_zombaio.php:600
+msgid "User Delete"
+msgstr ""
+
+#: wp_zombaio.php:187
+#, php-format
+msgid "User Delete <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: wp_zombaio.php:190 wp_zombaio.php:601
+msgid "User Add Credits"
+msgstr ""
+
+#: wp_zombaio.php:195
+#, php-format
+msgid "User Add Credits <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: wp_zombaio.php:198
+msgid "User Rebill"
+msgstr ""
+
+#: wp_zombaio.php:203
+#, php-format
+msgid "User Rebill <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: wp_zombaio.php:206
+msgid "Chargeback Report"
+msgstr ""
+
+#: wp_zombaio.php:211
+#, php-format
+msgid "Charge Back Report <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: wp_zombaio.php:214
+msgid "Card Declined Report"
+msgstr ""
+
+#: wp_zombaio.php:219
+#, php-format
+msgid "Card Declined Report <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: wp_zombaio.php:246
+#, php-format
+msgid "Run the <a href=\"%s\">WP Zombaio Install Wizard?</a>"
+msgstr ""
+
+#: wp_zombaio.php:247
+msgid "Dismiss Wizard"
+msgstr ""
+
+#: wp_zombaio.php:253
+msgid ""
+"<p>You have <i>Anyone can register</i> enabled, this means people can join "
+"your site without Paying!</p>"
+msgstr ""
+
+#: wp_zombaio.php:265
+msgid "WP Zomabio Allow Logged Out/Disable User Access"
+msgstr ""
+
+#: wp_zombaio.php:301
+msgid "Allow Access to All"
+msgstr ""
+
+#: wp_zombaio.php:304 wp_zombaio.php:526
+msgid "No"
+msgstr ""
+
+#: wp_zombaio.php:305 wp_zombaio.php:527
+msgid "Yes"
+msgstr ""
+
+#: wp_zombaio.php:318 wp_zombaio.php:322
+msgid "Guide"
+msgstr ""
+
+#: wp_zombaio.php:319
+msgid "Logs"
+msgstr ""
+
+#: wp_zombaio.php:323
+msgid "Settings"
+msgstr ""
+
+#: wp_zombaio.php:392
+msgid "Zomabio Logo"
+msgstr ""
+
+#: wp_zombaio.php:429
+msgid "Run Wizard Again"
+msgstr ""
+
+#: wp_zombaio.php:442
+msgid "All Done, you are ready to go"
+msgstr ""
+
+#: wp_zombaio.php:443
+msgid ""
+"<p>You can now review the current options and change advanced options</p>"
+msgstr ""
+
+#: wp_zombaio.php:449
+msgid "You Need to enter your Zombaio GW Pass"
+msgstr ""
+
+#: wp_zombaio.php:454
+msgid ""
+"<p>Now the final step</p><p>Update the <strong>Postback URL (ZScript)</"
+"strong> to the following:</p>"
+msgstr ""
+
+#: wp_zombaio.php:456
+#, php-format
+msgid ""
+"<p>Then Press Validate</p><p>Zombaio will then Validate the Settings, and if "
+"everything is correct, should say Successful and save the URL</p><p>If not, "
+"please <a href=\"%s\">Click Here</a> and we will restart the Wizard to "
+"confirm your settings</p><p>If everything worked, just hit Submit below</p>"
+msgstr ""
+
+#: wp_zombaio.php:468
+msgid "You Need to enter your Site ID"
+msgstr ""
+
+#: wp_zombaio.php:473
+msgid ""
+"<p>Next we need to setup the Zombaio -&gt; Communications</p><p>In Website "
+"Management, select Settings</p><p>Copy and Enter the <strong>Zombaio GW "
+"Pass</strong> below</p>"
+msgstr ""
+
+#: wp_zombaio.php:476
+msgid "Zombaio GW Pass:"
+msgstr ""
+
+#: wp_zombaio.php:483
+msgid ""
+"<p>This Wizard will Guide you thru the Zombaio Setup</p><p>First your will "
+"need a Zombaio Account</p><p>And to have added your Website under Website "
+"Management</p><p>This will give you a <strong>Site ID</strong>, enter that "
+"now:</p>"
+msgstr ""
+
+#: wp_zombaio.php:487 wp_zombaio.php:509
+msgid "Site ID:"
+msgstr ""
+
+#: wp_zombaio.php:502
+msgid "Settings Updated"
+msgstr ""
+
+#: wp_zombaio.php:505
+msgid "For Reference, your Zombaio Postback URL (ZScript) should be set to"
+msgstr ""
+
+#: wp_zombaio.php:508
+msgid "Standard Settings"
+msgstr ""
+
+#: wp_zombaio.php:510
+msgid "Zombaio GW Pass"
+msgstr ""
+
+#: wp_zombaio.php:516
+msgid "Advanced Settings"
+msgstr ""
+
+#: wp_zombaio.php:517
+msgid "Delete Action"
+msgstr ""
+
+#: wp_zombaio.php:519
+msgid "Delete User Account"
+msgstr ""
+
+#: wp_zombaio.php:520
+msgid "Block User Access"
+msgstr ""
+
+#: wp_zombaio.php:522
+msgid "What to do when Zombaio Calls User Delete"
+msgstr ""
+
+#: wp_zombaio.php:524
+msgid "Bypass IPN Verfication"
+msgstr ""
+
+#: wp_zombaio.php:529
+msgid ""
+"We Validate the Zombaio IP against a Known list, You can bypass this if "
+"needed"
+msgstr ""
+
+#: wp_zombaio.php:535 wp_zombaio.php:867
+msgid "Login Control"
+msgstr ""
+
+#: wp_zombaio.php:537
+msgid ""
+"In order to Protect your Membership Site, we need to Force Users to Login, "
+"(or register)"
+msgstr ""
+
+#: wp_zombaio.php:538
+msgid "Enable Login Required"
+msgstr ""
+
+#: wp_zombaio.php:540 wp_zombaio.php:561 wp_zombaio.php:577
+msgid "On"
+msgstr ""
+
+#: wp_zombaio.php:541 wp_zombaio.php:562 wp_zombaio.php:578
+msgid "Off"
+msgstr ""
+
+#: wp_zombaio.php:543
+msgid "Redirect Target - Page Title"
+msgstr ""
+
+#: wp_zombaio.php:544
+msgid "Where shall we send them? (Leave blank for the default WP Login)"
+msgstr ""
+
+#: wp_zombaio.php:549
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: wp_zombaio.php:554
+#, php-format
+msgid "<p>See the <a href=\"%s\">Guide</a> on usage</p>"
+msgstr ""
+
+#: wp_zombaio.php:559
+msgid "Redirect off the home page?"
+msgstr ""
+
+#: wp_zombaio.php:570
+msgid "Extras"
+msgstr ""
+
+#: wp_zombaio.php:571
+msgid "Seal Code:"
+msgstr ""
+
+#: wp_zombaio.php:573
+#, php-format
+msgid ""
+"This field&#39;s contents are shown when using the [zombaio_seal] shortcode, "
+"or its widget</h4><p>See the <a href=\"%s\">Guide</a> on where to get your "
+"Seal"
+msgstr ""
+
+#: wp_zombaio.php:575
+msgid "Raw Logs/Editor"
+msgstr ""
+
+#: wp_zombaio.php:584
+msgid "Submit"
+msgstr ""
+
+#: wp_zombaio.php:595
+msgid "Transaction Logs"
+msgstr ""
+
+#: wp_zombaio.php:602
+msgid "Rebill"
+msgstr ""
+
+#: wp_zombaio.php:603
+msgid "Chargeback"
+msgstr ""
+
+#: wp_zombaio.php:604
+msgid "Declined"
+msgstr ""
+
+#: wp_zombaio.php:629
+msgid "Click a row to view the Full Log"
+msgstr ""
+
+#: wp_zombaio.php:634
+msgid "Log ID"
+msgstr ""
+
+#: wp_zombaio.php:639 wp_zombaio.php:646 wp_zombaio.php:650 wp_zombaio.php:656
+#: wp_zombaio.php:664
+msgid "User"
+msgstr ""
+
+#: wp_zombaio.php:640 wp_zombaio.php:651 wp_zombaio.php:657 wp_zombaio.php:665
+#: wp_zombaio.php:669
+msgid "Amount"
+msgstr ""
+
+#: wp_zombaio.php:641 wp_zombaio.php:652 wp_zombaio.php:658 wp_zombaio.php:670
+msgid "Transaction ID"
+msgstr ""
+
+#: wp_zombaio.php:642 wp_zombaio.php:659
+msgid "Subscription ID"
+msgstr ""
+
+#: wp_zombaio.php:643 wp_zombaio.php:653
+msgid "Pricing ID"
+msgstr ""
+
+#: wp_zombaio.php:647
+msgid "Delete Reason"
+msgstr ""
+
+#: wp_zombaio.php:660
+msgid "Status"
+msgstr ""
+
+#: wp_zombaio.php:661
+msgid "Retry"
+msgstr ""
+
+#: wp_zombaio.php:666 wp_zombaio.php:671
+msgid "Reason"
+msgstr ""
+
+#: wp_zombaio.php:667
+msgid "Liability"
+msgstr ""
+
+#: wp_zombaio.php:675
+msgid "Log Time"
+msgstr ""
+
+#: wp_zombaio.php:694 wp_zombaio.php:699 wp_zombaio.php:716 wp_zombaio.php:721
+#: wp_zombaio.php:731 wp_zombaio.php:736 wp_zombaio.php:752 wp_zombaio.php:757
+#: wp_zombaio.php:775 wp_zombaio.php:780
+msgid "Unreg: "
+msgstr ""
+
+#: wp_zombaio.php:813
+msgid "Back"
+msgstr ""
+
+#: wp_zombaio.php:817
+msgid "Forward"
+msgstr ""
+
+#: wp_zombaio.php:847
+msgid ""
+"\n"
+"<h3>Zombaio Join Form</h3>\n"
+"<p>Zombaio supports two methods of joining your website</p>\n"
+"<p>Under Website Management, when viewing the Settings for your Site, the "
+"<strong>Zombaio Join Form Template</strong> has two options</p>\n"
+"<h4>Option 1 - Simple Credit Card Template</h4>\n"
+"<p>This method means on your site, for each pricing structure, you&#39;ll "
+"need multiple Join Form Widgets/Shortcodes, on your WordPress blog, to "
+"direct the user to Pay</p>\n"
+"<p>This is good for when you want to make a designed entry/lading page on "
+"your blog/site</p>\n"
+"<h4>Option 2 - e-Ticket Selection Template</h4>\n"
+"<p>With this method, any Join Form URL, results in the same form</p>\n"
+"<p>When arriving at Zombaio, users can then choose which Subscription/"
+"Package to join, so in this case you only need a single Join Form Widget/"
+"Shortcode on your WordPress Blog</p>\n"
+"<p>The choice is up to you</p>\n"
+"\n"
+"<h3>Google Analytics</h3>\n"
+"<p>If you add your GA Property ID, you can track if users are navigating "
+"thru your site, and leaving before paying</p>\n"
+"<p>This will be handy when considering your pricing structure</p>\n"
+"\n"
+"<h3>Join Form Image</h3>\n"
+"<p>It is a good idea to upload your Site Logo to Zombaio for use on Join "
+"Forms, helps remind users that whilst on the Zombaio Website paying, they "
+"are joining your Website!</p>\n"
+msgstr ""
+
+#: wp_zombaio.php:869
+msgid ""
+"\n"
+"<p>With Login Control enabled, only Logged In Users (and thus people who "
+"have paid), can access your content</p>\n"
+"<p>You can choose where users are directed to, the default is the WP-Login."
+"php page, but since WP Zomabio does not hook/work on the standard "
+"registration page, users cannot sign up from here</p>\n"
+"<p>So normally you shoule have <i>Anyone can Register</i> disabled</p>\n"
+"<p>You can pick a page to send users to, this page should containt a Login "
+"Form and a Register Form (or at least a link to your Zombaio Join Form)</p>\n"
+"<p>Zombaio Rules (or at least advice) that you should put a Zombaio Seal on "
+"your site somewhere, this is a good page to place it</p>\n"
+"<p>You can do something like:</p>"
+msgstr ""
+
+#: wp_zombaio.php:878
+msgid ""
+"\n"
+"<p>Swap JOINURL for your Zombaio Pricing Structure, Join Form URL, and "
+"PRICING for some Introdutory Text, such as the Price and Membership Terms</"
+"p>\n"
+"<p>That makes a nice Registration Landing Page</p>\n"
+msgstr ""
+
+#: wp_zombaio.php:882
+#, php-format
+msgid "You can see an <a href=\"%s\" target=\"_blank\">example here</a>"
+msgstr ""
+
+#: wp_zombaio.php:884
+msgid "Site Seal"
+msgstr ""
+
+#: wp_zombaio.php:886
+#, php-format
+msgid ""
+"\n"
+"<p>You can get your Seal Code as follows:\n"
+"\t<ul class=\"disc\">\n"
+"\t\t<li>Login to <a href=\"%s\">ZOA</a></li>\n"
+"\t\t<li>Navigate to:\n"
+"\t\t\t<ul class=\"disc\">\n"
+"\t\t\t\t<li>Tools</li>\n"
+"\t\t\t\t<li>Pricing Structure</li>\n"
+"\t\t\t</ul>\n"
+"\t\t</li>\n"
+"\t\t<li>Then Manage/Edit any Pricing Structure for your site</li>\n"
+"\t\t<li>Then in the HTML Button Field, copy everything from and including "
+"&lt;!-- START ZOMBAIO SEAL CODE --&gt; to &lt;!-- END ZOMBAIO SEAL CODE --"
+"&gt;</li>\n"
+"\t\t<li>Paste that into this field</li>\n"
+"\t\t<li><a href=\"#nowhere\" onclick=\"%s\">View a ScreenShot/Example</a>, "
+"the Seal Code is Hightlighted</li>\n"
+"\t</ul>\n"
+"</p>"
+msgstr ""
+
+#: wp_zombaio.php:905
+msgid "Seal Screenshot"
+msgstr ""
+
+#: wp_zombaio.php:909
+msgid "Running a Membership Site"
+msgstr ""
+
+#: wp_zombaio.php:911
+#, php-format
+msgid ""
+"<p>For more thoughts and advice on Running a membership site, check out the "
+"<a href=\"%s\" target=\"_blank\">Your Members Blog</a></p>"
+msgstr ""
+
+#: wp_zombaio.php:913
+msgid "Caching, (Plugins or Otherwise) and CloudFlare"
+msgstr ""
+
+#: wp_zombaio.php:915
+#, php-format
+msgid ""
+"<p>If you are running anything Caching related, (which you probably "
+"shouldn&#39;t on a <a href=\"%s\" target=\"_blank\">membership site</a>), "
+"you may need to Whitelist Zombaios Notifications IP Addresses, so they "
+"bypass the potential block</p>"
+msgstr ""
+
+#: wp_zombaio.php:916
+#, php-format
+msgid ""
+"<h4>Known Caching Plugins and How to Bypass</h4>\n"
+"\n"
+"<ul class=\"disc\">\n"
+"<li><strong>CloudFlare Whitelisting</strong>, visit <a href=\"%s\" target="
+"\"_blank\">Threat Control</a> add Custom Rule, and Trust all the Zombaio "
+"IP&#39;s</li>\n"
+"<li><strong>Misc</strong>, generally you should allow all Query Strings "
+"containing <i>ZombaioGWPass</i> to Bypass any and all Caching</li>\n"
+"</ul>\n"
+"\n"
+"<h5>Want to add a Caching Bypass Solution to this list, <a href=\"%s\">Drop "
+"me a Line</a></h5>\n"
+"\n"
+"<h4>Zombaio IPs</h4>\n"
+"<p>You can load/fetch the Current Zombaio Known IP Addresses</p>\n"
+msgstr ""
+
+#: wp_zombaio.php:929
+msgid "Load IP&#39;s"
+msgstr ""
+
+#: wp_zombaio.php:929
+msgid "or"
+msgstr ""
+
+#: wp_zombaio.php:929
+msgid "Load CSV List of IP&#39;s"
+msgstr ""
+
+#: wp_zombaio.php:1387
+msgid "Use this widget to add a Join Form to your SideBar"
+msgstr ""
+
+#: wp_zombaio.php:1388 wp_zombaio.php:1395
+msgid "WP Zombaio Join Widget"
+msgstr ""
+
+#: wp_zombaio.php:1444 wp_zombaio.php:1556
+msgid "Title:"
+msgstr ""
+
+#: wp_zombaio.php:1446
+msgid "Join Form URL:"
+msgstr ""
+
+#: wp_zombaio.php:1448
+msgid "Intro Text:"
+msgstr ""
+
+#: wp_zombaio.php:1450
+msgid "Submit Button:"
+msgstr ""
+
+#: wp_zombaio.php:1463
+msgid "Use this widget to add a Zombaio Site Seal to your SideBar"
+msgstr ""
+
+#: wp_zombaio.php:1464 wp_zombaio.php:1471
+msgid "WP Zombaio Seal Widget"
+msgstr ""
+
+#: wp_zombaio.php:1508
+msgid "Use this widget to add a Login Form to your SideBar"
+msgstr ""
+
+#: wp_zombaio.php:1509 wp_zombaio.php:1516
+msgid "WP Zombaio Login Widget"
+msgstr ""
